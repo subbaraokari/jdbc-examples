@@ -1,0 +1,3 @@
+[main] INFO  org.hcl.Sample  - hello
+[main] FATAL org.hcl.Sample  - hello
+[main] ERROR org.hcl.Sample  - hello
